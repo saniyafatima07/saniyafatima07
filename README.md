@@ -39,18 +39,12 @@ Git/GitHub · Firebase · Nmap · BurpSuite · CyberChef · Wireshark  · Vercel
   <a href="https://expressjs.com/" target="_blank" rel="noreferrer" style="margin-right:12px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" height="40" style="filter: invert(1);"/>
   </a>
-  <!-- <a href="https://git-scm.com/" target="_blank" rel="noreferrer" style="margin-right:12px;">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  </a> -->
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer" style="margin-right:12px;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"
        alt="Git" width="40" height="40"/>
 </a>
   <a href="https://github.com/" target="_blank" rel="noreferrer" style="margin-right:12px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40" style="filter: invert(1);"/>
-  </a>
-  <a href="https://gchq.github.io/CyberChef/" target="_blank" rel="noreferrer" style="margin-right:12px;">
-    <img src="https://avatars.githubusercontent.com/u/37358814?s=200&v=4" alt="CyberChef" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
   </a>
   <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer" style="margin-right:12px;">
     <img src="https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg" alt="Wireshark" width="40" height="40"/>
