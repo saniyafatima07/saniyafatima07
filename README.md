@@ -36,9 +36,6 @@ Git/GitHub · Firebase · Nmap · BurpSuite · CyberChef · Wireshark  · Vercel
   <a href="https://nodejs.org/" target="_blank" rel="noreferrer" style="margin-right:12px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
   </a>
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer" style="margin-right:12px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" height="40" style="filter: invert(1);"/>
-  </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer" style="margin-right:12px;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"
        alt="Git" width="40" height="40"/>
@@ -49,15 +46,16 @@ Git/GitHub · Firebase · Nmap · BurpSuite · CyberChef · Wireshark  · Vercel
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
   </a>
-  <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer" style="margin-right:12px;">
-    <img src="https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg" alt="Wireshark" width="40" height="40"/>
-  </a>
+  <a href="https://www.wireshark.org/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/wireshark/wireshark-ar21.svg"
+        alt="Wireshark" height="40" width="60"/>
   <a href="https://vercel.com/" target="_blank" rel="noreferrer" style="margin-right:12px;">
-    <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="Vercel" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/vercel/vercel-ar21.svg"
+     alt="Vercel" height="40" width="60"/>
   </a>
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer" style="margin-right:12px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg"
-       alt="Next.js" width="40" height="40"/>
+       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg"
+     alt="Next.js" height="40" width="60"/>
   </a>
 </p>
 
