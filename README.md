@@ -10,14 +10,6 @@
 
 ## Tech Stack
 
-**Languages:**  
-TypeScript · JavaScript · Python · C++
-
-**Frameworks & Libraries:**  
-Next.js · Node.js · Express.js 
-
-**Tools & Platforms:**  
-Git/GitHub · Firebase · Nmap · BurpSuite · CyberChef · Wireshark  · Vercel
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) &nbsp;&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)&nbsp;&nbsp;
