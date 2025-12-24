@@ -42,15 +42,12 @@ Git/GitHub · Firebase · Nmap · BurpSuite · CyberChef · Wireshark  · Vercel
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer" style="margin-right:12px;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"
        alt="Git" width="40" height="40"/>
-</a>
-  <a href="https://github.com/" target="_blank" rel="noreferrer" style="margin-right:12px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-  </a>
-  <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer" style="margin-right:12px;">
-    <img src="https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg" alt="Wireshark" width="40" height="40"/>
   </a>
   <a href="https://portswigger.net/burp" target="_blank" rel="noreferrer" style="margin-right:12px;">
     <img src="https://avatars.githubusercontent.com/u/13749115?s=200&v=4" alt="Burp Suite" width="40" height="40"/>
+  </a>
+  <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer" style="margin-right:12px;">
+    <img src="https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg" alt="Wireshark" width="40" height="40"/>
   </a>
   <a href="https://vercel.com/" target="_blank" rel="noreferrer" style="margin-right:12px;">
     <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="Vercel" width="40" height="40"/>
