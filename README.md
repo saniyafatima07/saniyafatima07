@@ -19,45 +19,19 @@ Next.js · Node.js · Express.js
 **Tools & Platforms:**  
 Git/GitHub · Firebase · Nmap · BurpSuite · CyberChef · Wireshark  · Vercel
 
-<p>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer" style="margin-right:12px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" style="margin-right:12px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer" style="margin-right:12px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer" style="margin-right:12px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
-  </a>
-  <a href="https://nodejs.org/" target="_blank" rel="noreferrer" style="margin-right:12px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer" style="margin-right:12px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"
-       alt="Git" width="40" height="40"/>
-  </a>
-  <a href="https://portswigger.net/burp" target="_blank" rel="noreferrer" style="margin-right:12px;">
-    <img src="https://avatars.githubusercontent.com/u/13749115?s=200&v=4" alt="Burp Suite" width="40" height="40"/>
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
-  </a>
-  <a href="https://www.wireshark.org/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/wireshark/wireshark-ar21.svg"
-        alt="Wireshark" height="40" width="60"/>
-  <a href="https://vercel.com/" target="_blank" rel="noreferrer" style="margin-right:12px;">
-    <img src="https://www.vectorlogo.zone/logos/vercel/vercel-ar21.svg"
-     alt="Vercel" height="40" width="60"/>
-  </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer" style="margin-right:12px;">
-       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg"
-     alt="Next.js" height="40" width="60"/>
-  </a>
-</p>
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) &nbsp;&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)&nbsp;&nbsp;
+![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white) &nbsp;&nbsp;
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) &nbsp;&nbsp;
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white) &nbsp;&nbsp;
+![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white) &nbsp;&nbsp;
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white) &nbsp;&nbsp;
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) &nbsp;&nbsp;
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black) &nbsp;&nbsp;
+![Nmap](https://img.shields.io/badge/Nmap-2C2C2C?logo=nmap&logoColor=white) &nbsp;&nbsp;
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?logo=burpsuite&logoColor=white) &nbsp;&nbsp;
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=white) &nbsp;&nbsp;
+![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white) &nbsp;&nbsp;
 
 ## Connect
 
