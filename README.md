@@ -46,6 +46,9 @@ Git/GitHub · Firebase · Nmap · BurpSuite · CyberChef · Wireshark  · Vercel
   <a href="https://portswigger.net/burp" target="_blank" rel="noreferrer" style="margin-right:12px;">
     <img src="https://avatars.githubusercontent.com/u/13749115?s=200&v=4" alt="Burp Suite" width="40" height="40"/>
   </a>
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
+  </a>
   <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer" style="margin-right:12px;">
     <img src="https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg" alt="Wireshark" width="40" height="40"/>
   </a>
